@@ -1,3 +1,4 @@
+#!/bin/bash
 et -e
 dateStr=`date +%Y_%m_%d`
 seconds=`date +%s`
